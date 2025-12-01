@@ -62,6 +62,7 @@ export function SignupPage() {
       await signup(name, email, password)
       
       setShowConfirmDialog(true)
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } catch (error: any) {
       toast.error(error.message || 'Failed to create account. Please try again.')
     } finally {
