@@ -1,0 +1,26 @@
+[
+        {
+            "title": "10 Automation Strategies That Will Transform Your Business",
+            "excerpt": "Discover the most effective automation techniques that leading companies use to streamline operations and boost productivity.",
+            "image": "/images/blogs/article-1.webp",
+            "date": "March 15, 2024",
+            "readTime": "8 min read",
+            "category": "Strategy"
+        },
+        {
+            "title": "The Future of SaaS: Trends to Watch in 2024",
+            "excerpt": "Explore the emerging trends shaping the SaaS landscape and how they'll impact your business operations.",
+            "image": "/images/blogs/article-2.webp",
+            "date": "March 10, 2024",
+            "readTime": "6 min read",
+            "category": "Technology"
+        },
+        {
+            "title": "Building Scalable Workflows: A Complete Guide",
+            "excerpt": "Learn how to create workflows that grow with your business and maintain efficiency at any scale.",
+            "image": "/images/blogs/article-3.webp",
+            "date": "March 5, 2024",
+            "readTime": "12 min read",
+            "category": "Guide"
+        }
+    ]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sarah Chen",
+        "role": "VP of Operations",
+        "company": "TechCorp",
+        "image": "/images/testimonials/testimonial-1.webp",
+        "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse feugiat, urna at congue commodo, felis sem interdum magna, vitae consequat lorem neque at turpis. Etiam eget arcu sit amet massa viverra gravida. Integer non erat nec mauris feugiat pulvinar.",
+        "rating": 5
+    },
+    {
+        "name": "Michael Rodriguez",
+        "role": "Founder & CEO",
+        "company": "StartupXYZ",
+        "image": "/images/testimonials/testimonial-2.webp",
+        "testimonial": "Quisque euismod justo eros, ut ullamcorper purus mattis eu. Nam sed nibh non augue posuere maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed non metus id metus auctor elementum. Donec aliquet velit quis lacus lacinia luctus.",
+        "rating": 5
+    },
+    {
+        "name": "Emily Watson",
+        "role": "Head of Product",
+        "company": "InnovateLabs",
+        "image": "/images/testimonials/testimonial-3.webp",
+        "testimonial": "Praesent imperdiet consequat lectus, nec elementum risus aliquam sit amet. Curabitur sagittis justo id dui tincidunt, non ullamcorper nisl vehicula. Mauris at quam non ante porttitor sagittis ut sit amet ante. Suspendisse at dui eget urna varius aliquet.",
+        "rating": 5
+    }
+]
